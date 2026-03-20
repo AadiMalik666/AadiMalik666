@@ -31,14 +31,6 @@ I’m always eager to learn **new tools and frameworks**, and apply my skills to
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadiMalik666&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=AadiMalik666&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Coding Profiles
 
 <p align="center">
@@ -54,6 +46,49 @@ I’m always eager to learn **new tools and frameworks**, and apply my skills to
 </p>>
 
 ---
+
+## 🤝 My Contributions
+- 🚀 **Open Source Projects:** Contributed to personal and collaborative projects on GitHub.  
+- 🖥️ **Coding Platforms:**  
+  - **LeetCode:** Solved numerous algorithm and data structure problems → [Profile](https://leetcode.com/u/AadiCodes6971/)  
+  - **HackerRank:** Completed multiple programming challenges → [Profile](https://www.hackerrank.com/malikahad257/hackos)  
+- 🎓 **Academic Projects:** Built projects for university coursework using **HTML, CSS, JavaScript, C++, Python, and React**.  
+- 🌐 **Portfolio Projects:** Developed **portfolio website and interactive web apps**, hosted live on Vercel → [Portfolio](https://portfolio-8bbu.vercel.app/)  
+- 💡 **Community Help:** Shared solutions, guides, and tips for programming challenges and collaborative learning.
+
+---
+
+## 📈 GitHub Activity & Contributions
+<p align="center">
+  <!-- Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/00F7FF/AadiMalik666" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Activity Timeline Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiMalik666&theme=tokyo-night&bg_color=0a0a2a&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Activity%20Timeline" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Stats Cards Table -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AadiMalik666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2a&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="450"/>
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=AadiMalik666&theme=tokyonight&hide_border=true&background=0a0a2a&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="450"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AadiMalik666&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 
 ## 🌐 Connect With Me  
 
